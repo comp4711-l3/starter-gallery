@@ -2,5 +2,19 @@ Team Members: I. I. and S. J.
 
 (Newest at the top)
 
+9-22/2016 6:04PM
+Completed tutorial step 3 which includes using a database and model to display the images on the pages.
+
+9-22/2016 5:19PM
+Updated views and controllers
+In views- eliminated HTML openings and closings
+In controllers- Used a base controller for the other three
+
+9-22/2016 4:40pm
+Created controllers and views to work for the site. Also adjusted links on the views to work with the controllers.
+
+
 9-22/2016 3:52PM
 Created changelog file
+
+
